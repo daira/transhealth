@@ -1,4 +1,14 @@
-Copyright 2023 Daira Emma Hopwood
+Presentation: CC BY 4.0 Copyright 2023 Daira Emma Hopwood
+
+Image of portcullis at Bolton Castle: CC BY-SA 4.0 Copyright 2005 Frank Glover; 2023 Daira Emma Hopwood
+Image of sailing yacht off Vaxholm: CC BY-SA 4.0 Copyright 2014 Bengt Nyman; 2023 Daira Emma Hopwood
+Image of pharmacy bottles: CC BY-SA 4.0 Copyright 2020 Hannes Grobe; 2023 Daira Emma Hopwood
+
+Fair use is claimed for the reproduction of waiting list statistics from the
+web page of Tavistock GIC (https://gic.nhs.uk/appointments/waiting-times/).
+
+If you modify the presentation, you must preserve the copyright attributions
+of any images that are still used, as well as the overall attribution.
 
 Creative Commons Attribution 4.0 International Public License
 
