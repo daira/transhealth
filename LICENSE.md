@@ -1,11 +1,21 @@
 Presentation: CC BY 4.0 Copyright 2023 Daira Emma Hopwood
 
 Image of portcullis at Bolton Castle: CC BY-SA 4.0 Copyright 2005 Frank Glover; 2023 Daira Emma Hopwood
+
 Image of sailing yacht off Vaxholm: CC BY-SA 4.0 Copyright 2014 Bengt Nyman; 2023 Daira Emma Hopwood
+
 Image of pharmacy bottles: CC BY-SA 4.0 Copyright 2020 Hannes Grobe; 2023 Daira Emma Hopwood
 
 Fair use is claimed for the reproduction of waiting list statistics from the
-web page of Tavistock GIC (https://gic.nhs.uk/appointments/waiting-times/).
+[web page of Tavistock GIC](https://gic.nhs.uk/appointments/waiting-times/).
+
+The "scientist" (U+1F9D1 ZWJ U+1F52C) and "upside-down face" (U+1F643) emoji
+are from the [Google Noto Color Emoji set](https://github.com/googlefonts/noto-emoji),
+used under the [SIL Open Font License, Version 1.1](https://github.com/googlefonts/noto-emoji/blob/main/fonts/LICENSE).
+
+The "frowning pile of poo" emoji was edited by Daira Emma Hopwood from
+a [public domain original](https://openclipart.org/detail/250028/shit) by
+Claudio Majorino.
 
 If you modify the presentation, you must preserve the copyright attributions
 of any images that are still used, as well as the overall attribution.
